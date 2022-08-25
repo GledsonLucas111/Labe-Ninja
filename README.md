@@ -2,27 +2,6 @@
 
 Prezado cliente, viemos por meio desse e-mail informa-lo sobre as descisões tomadas a cerca do projeto labeninjas, onde foram definidos os detalhes do projeto como, as paletas de cores e layout. 
 
- ## Como executar este projeto em sua maquina 
- 
- O projeto foi iniciado com [Create React App](https://github.com/facebook/create-react-app).
-
-<h3> Scripts Disponíveis: </h3>
-
-No diretório do projeto, você pode executar:
-
-### `npm install`
-
-Para instalar a node_modules para que o projeto funcione sem nenhum erro.
-
-### `npm start`
-
-Executa o aplicativo no modo de desenvolvimento.
-Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo no navegador. 
-A página será recarregada se você fizer edições.
-Você também verá erros de lint no console.
-
-Veja a seção sobre [deployment](https://facebook.github.io/create-react-app/docs/deployment) para mais informações.
-
 ## PALETA DE CORES
 A paleta de cores foi definida pensando em tons simples e elegantes e ao mesmo tempo tentamos manter uma pegada minimalista utilizando outros tons de uma mesma cor.
 As cores escolhidas criarão um design único e memorável para sua plataforma.
@@ -35,12 +14,29 @@ Segue abaixo paleta de cores:
 - ![#F0F0F0](https://via.placeholder.com/15/F0F0F0/000000?text=+) `#F0F0F0`
 - ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+) `#FFFFFF`
 
-## LAYOUT DO SITE
-Segue em anexo o link contendo o layout das páginas do site para uma melhor apreciação do cliente.
+### O que funciona
+- Todos os botões direcionam para as devidas informações;
+- Interação entre as páginas;
+- Formulário de cadastro;
+- Adicionar item ao carrinho;
+- Remover itens do carrinho;
+- Filtragem por título, preço, data (crescente e decrescente);
+- Busca por título.
 
-- https://drive.google.com/file/d/116UqOaD3zf_CSNukUJ-xn9tkDA0iHTIQ/view?usp=sharing
-- https://drive.google.com/file/d/1OPO6aaIiJXbpiaGZoWKC1dSJtDABrfox/view?usp=sharing
+OBS:. Algumas das funcionalidades acabam carregando apenas quando o app é executado pelo terminal .
 
-As devidas tarefas para criação do site já foram distribuídas entre os membros de nossa equipe e iniciaremos a construção do site mediante sua aprovação.
+### O que não funciona
+- Algumas das funcionalidades acabam carregando apenas quando o app é executado pelo terminal .
 
-Ficamos à disposição para qualquer dúvida ou sugestão a respeito do projeto.
+### Link Surge 
+## https://quaint-flight.surge.sh/
+
+### Imagens
+![image](https://user-images.githubusercontent.com/94838711/152719993-d92d4452-b046-449f-a3a1-fbd0e4b8bb71.png)
+![image](https://user-images.githubusercontent.com/94838711/152720027-43b64e28-6c13-4670-bb6e-3175170c86a4.png)
+![image](https://user-images.githubusercontent.com/94838711/152720052-2611a7bd-e34b-467b-9675-f5240a792fff.png)
+![image](https://user-images.githubusercontent.com/94838711/152720086-cee451b7-553d-4054-a61a-f817f58cd1ad.png)
+![image](https://user-images.githubusercontent.com/94838711/152720125-a9055957-9a1b-4627-9154-18c1b8ccdc44.png)
+![WhatsApp Image 2022-02-07 at 14 49 19](https://user-images.githubusercontent.com/94838711/152843826-2c07c010-8143-4b22-b79f-d3d7d6abce6e.jpeg)
+![image](https://user-images.githubusercontent.com/94838711/152720146-f48f6358-8909-4820-a719-60a60fddcaca.png)
+![image](https://user-images.githubusercontent.com/94838711/152720202-c1b4d6d8-afbe-4bcb-895c-42f9650b2f37.png)
